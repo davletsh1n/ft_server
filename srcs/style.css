@@ -1,0 +1,19 @@
+body      {  color: #ffffff;  background: #000000 }
+a:link    {  color: #9999ff;  background: #000000 }
+a:visited {  color: #999999;  background: #000000 }
+a:active  {  color: #ff0000;  background: #000000 }
+
+h1        {  color: #ffffff;  background: #000000 }
+
+p         {  color: #ffffff;  background: #000000 }
+
+pre.ascii {  color: #00ff00;  background: #000000;  font-weight: bold; }
+a.ascii   {  background: #000000;  font-weight: bold;  }
+
+.llizard  {  color: #ffff00;  background: #000000;  font-weight: bold; }
+.joris    {  color: #990000;  background: #000000;  font-weight: bold; }
+.veronica {  color: #ff0000;  background: #000000;  font-weight: bold; }
+.joan     {  color: #999999;  background: #000000;  font-weight: bold; }
+.martin   {  color: #ffffff;  background: #000000;  font-weight: bold; }
+.colin    {  color: #ff9900;  background: #000000;  font-weight: bold; }
+.ojoshiro {  color: #ff99cc;  background: #000000;  font-weight: bold; }
